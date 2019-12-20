@@ -6,3 +6,7 @@ h1 {
   font-family: 'Nova Square', cursive;
   color: #ffffff;
 }
+
+.title {
+  font-size: 2em;
+}
